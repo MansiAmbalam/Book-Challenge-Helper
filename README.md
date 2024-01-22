@@ -9,3 +9,5 @@ I have added the notebook file here. To run the notebook, upload it to your pers
 Please make sure the name of the book and author match with how they are displayed on goodreads since it is the site being checked in the program. 
 
 The main purpose of the program is to avoid going through every prompt list to find where the book you want to add to the challenge fits.
+
+**_This is an individual project and not associated with anyone._**
