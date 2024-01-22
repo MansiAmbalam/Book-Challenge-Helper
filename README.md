@@ -6,6 +6,6 @@ This is a helper for the 52 Book Club's 2024 Book Challenge.
 
 I have added the notebook file here. To run the notebook, upload it to your personal google colab [here](https://colab.research.google.com/). Wait for the connection to be made to the server and go to Runtime -> Run all to run the notebook. Name of the book and author can be entered when prompted. The categories will be printed in the end.
 
-In case you encounter library issues, install requests and beautifulsoup using pip command by adding the following commands before import statements:
-<br>`pip install requests`
-<br>`pip install beautifulsoup4`
+Please make sure the name of the book and author match with how they are displayed on goodreads since it is the site being checked in the program. 
+
+The main purpose of the program is to avoid going through every prompt list to find where the book you want to add to the challenge fits.
